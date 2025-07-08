@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
   </a>
   <h1 align="center">TechnoPark STP ITPLN</h1>
-  <p align="center">Sistem Manajemen TechnoPark Sekolah Tinggi Teknologi PLN</p>
+  <p align="center">Sistem Manajemen TechnoPark Institut Teknologi PLN</p>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## Tentang Projek
 
-**TechnoPark STP ITPLN** adalah sistem manajemen terintegrasi untuk TechnoPark di Sekolah Tinggi Teknologi PLN. Projek ini dibangun dengan:
+**TechnoPark STP ITPLN** adalah sistem manajemen terintegrasi untuk TechnoPark di Institut Teknologi PLN. Projek ini dibangun dengan:
 
 - Laravel 10.x
 - Livewire 3.x
